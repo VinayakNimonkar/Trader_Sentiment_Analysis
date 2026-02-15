@@ -1,0 +1,68 @@
+# Trader Behavior vs Market Sentiment — Summary
+
+## Objective
+
+The objective of this analysis was to understand how Bitcoin market sentiment (Fear vs Greed) affects trader performance and behavior.
+
+---
+
+## Methodology
+
+Two datasets were used:
+
+* Bitcoin Fear/Greed Index dataset
+* Hyperliquid trader historical dataset
+
+Steps performed:
+
+* Cleaned and converted timestamps
+* Merged sentiment and trader data
+* Created daily performance and behavior metrics
+* Segmented traders based on activity level
+* Analyzed performance differences across sentiment
+
+---
+
+## Key Findings
+
+1. Traders generate significantly higher profits during Fear sentiment periods.
+
+This is likely due to increased volatility and trading opportunities.
+
+2. Traders increase trade frequency during Fear periods.
+
+This indicates traders actively respond to market volatility.
+
+3. Frequent traders outperform infrequent traders significantly.
+
+Frequent traders generated over 3x higher profits.
+
+4. Traders adjust behavior based on sentiment.
+
+Position size and direction change based on Fear and Greed conditions.
+
+---
+
+## Strategy Recommendations
+
+Based on analysis, the following strategies are recommended:
+
+1. Increase trading activity during Fear sentiment periods
+
+This can improve profitability due to higher volatility.
+
+2. Reduce aggressive positioning during Greed periods
+
+This helps reduce risk and avoid overexposure.
+
+3. Maintain consistent trading activity
+
+Frequent trading is associated with higher profitability.
+
+---
+
+## Conclusion
+
+Market sentiment strongly influences trader performance and behavior.
+
+Incorporating sentiment signals into trading strategy can improve profitability and risk management.

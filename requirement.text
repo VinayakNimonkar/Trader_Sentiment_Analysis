@@ -1,0 +1,23 @@
+# Core data processing
+
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning (for optional predictive model)
+
+scikit-learn==1.4.2
+
+# Notebook environment
+
+jupyter==1.0.0
+ipykernel==6.29.4
+
+# Optional (better plots & progress bars)
+
+plotly==5.22.0
+tqdm==4.66.4
