@@ -5,19 +5,6 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) influences tr
 The goal is to identify behavioral patterns and propose actionable trading strategy insights.
 
 ---
-## Project Folder Struture - Trader-Sentiment-Analysis/
-│
-├── data/
-│   ├── fear_greed.csv
-│   └── hyperliquid_trades(1).csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-    └── Summary.txt
-│
-├── requirements.txt
-└── README.md
-
 
 ## 📂 Datasets Used
 
